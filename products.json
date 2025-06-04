@@ -1,0 +1,442 @@
+[
+  {
+    "_id": "683f4694c2de217406d77122",
+    "name": "Mclaren600LT",
+    "price": 5000.0,
+    "emoji": "🚗",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "683f4694c2de217406d77123",
+    "name": "Taycan",
+    "price": 3500.0,
+    "emoji": "🚗",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "683f4694c2de217406d77124",
+    "name": "Turismo",
+    "price": 1500.0,
+    "emoji": "🚗",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "683f4694c2de217406d77125",
+    "name": "Skinไม้น้ำแข็ง",
+    "price": 800.0,
+    "emoji": "🦯",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "683f4694c2de217406d77126",
+    "name": "Skinมีดน้ำแข็ง",
+    "price": 300.0,
+    "emoji": "🗡️",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "683f4694c2de217406d77127",
+    "name": "Skinสนับน้ำแข็ง",
+    "price": 150.0,
+    "emoji": "👊",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "683f4694c2de217406d77128",
+    "name": "แฟชั่นLuLuครบเซ็ต",
+    "price": 150.0,
+    "emoji": "🐷",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "683f4694c2de217406d77129",
+    "name": "กล่องตีอาวุธ",
+    "price": 5.0,
+    "emoji": "🧰",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "683f4694c2de217406d7712a",
+    "name": "ไวเบรเนี่ยม",
+    "price": 50.0,
+    "emoji": "🧪",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "683f4694c2de217406d7712b",
+    "name": "Harmony",
+    "price": 60.0,
+    "emoji": "💎",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "683f4694c2de217406d7712c",
+    "name": "ปูน",
+    "price": 1.33,
+    "emoji": "🧱",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "683f4694c2de217406d7712d",
+    "name": "เงินเขียว1M",
+    "price": 200.0,
+    "emoji": "❌",
+    "country": "1",
+    "category": "money"
+  },
+  {
+    "_id": "683f4694c2de217406d7712e",
+    "name": "เงินแดง1,000",
+    "price": 15.0,
+    "emoji": "💴",
+    "country": "1",
+    "category": "money"
+  },
+  {
+    "_id": "683f4694c2de217406d7712f",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "rentcar",
+    "country": "1"
+  },
+  {
+    "_id": "683f4694c2de217406d77130",
+    "name": "เกาะ",
+    "price": 0.33,
+    "emoji": "🦺",
+    "country": "1",
+    "category": "story"
+  },
+  {
+    "_id": "683f4694c2de217406d77131",
+    "name": "AED",
+    "price": 0.5,
+    "emoji": "⛑️",
+    "country": "1",
+    "category": "story"
+  },
+  {
+    "_id": "683f4694c2de217406d77132",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "weapon",
+    "country": "1"
+  },
+  {
+    "_id": "683f4694c2de217406d77133",
+    "name": "McLarenW1.",
+    "price": 8000.0,
+    "emoji": "🚗",
+    "country": "2",
+    "category": "car"
+  },
+  {
+    "_id": "683f4694c2de217406d77134",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "fashion",
+    "country": "2"
+  },
+  {
+    "_id": "683f4694c2de217406d77135",
+    "name": "กล่องตีอาวุธ.",
+    "price": 4.0,
+    "emoji": "🧰",
+    "country": "2",
+    "category": "item"
+  },
+  {
+    "_id": "683f4694c2de217406d77136",
+    "name": "สตาร์เมทัล.",
+    "price": 0.5,
+    "emoji": "⭐",
+    "country": "2",
+    "category": "item"
+  },
+  {
+    "_id": "683f4694c2de217406d77137",
+    "name": "สตาร์เมทัลขั้นสูง.",
+    "price": 35.0,
+    "emoji": "🌟",
+    "country": "2",
+    "category": "item"
+  },
+  {
+    "_id": "683f4694c2de217406d77138",
+    "name": "ปูน.",
+    "price": 0.4,
+    "emoji": "🧱",
+    "country": "2",
+    "category": "item"
+  },
+  {
+    "_id": "683f4694c2de217406d77139",
+    "name": "สายไฟ.",
+    "price": 0.4,
+    "emoji": "⚡",
+    "country": "2",
+    "category": "item"
+  },
+  {
+    "_id": "683f4694c2de217406d7713a",
+    "name": "แคปซูลแพ็ค .",
+    "price": 22.0,
+    "emoji": "💊",
+    "country": "2",
+    "category": "item"
+  },
+  {
+    "_id": "683f4694c2de217406d7713b",
+    "name": "AFK.",
+    "price": 0.5,
+    "emoji": "⏰",
+    "country": "2",
+    "category": "item"
+  },
+  {
+    "_id": "683f4694c2de217406d7713c",
+    "name": "เงินเขียว100k.",
+    "price": 35.0,
+    "emoji": "💵",
+    "country": "2",
+    "category": "money"
+  },
+  {
+    "_id": "683f4694c2de217406d7713d",
+    "name": "เงินเขียว1M.",
+    "price": 350.0,
+    "emoji": "💵",
+    "country": "2",
+    "category": "money"
+  },
+  {
+    "_id": "683f4694c2de217406d7713e",
+    "name": "เงินแดง1,000.",
+    "price": 38.0,
+    "emoji": "💴",
+    "country": "2",
+    "category": "money"
+  },
+  {
+    "_id": "683f4694c2de217406d7713f",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "rentcar",
+    "country": "2"
+  },
+  {
+    "_id": "683f4694c2de217406d77140",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "story",
+    "country": "2"
+  },
+  {
+    "_id": "683f4694c2de217406d77141",
+    "name": "ชุดตีบวก+1.",
+    "price": 15.0,
+    "emoji": "🪄",
+    "country": "2",
+    "category": "weapon"
+  },
+  {
+    "_id": "683f4694c2de217406d77142",
+    "name": "ชุดตีบวก+2.",
+    "price": 160.0,
+    "emoji": "🪄",
+    "country": "2",
+    "category": "weapon"
+  },
+  {
+    "_id": "683f4694c2de217406d77143",
+    "name": "ชุดตีบวก+3.",
+    "price": 250.0,
+    "emoji": "🪄",
+    "country": "2",
+    "category": "weapon"
+  },
+  {
+    "_id": "683f4694c2de217406d77144",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "car",
+    "country": "3"
+  },
+  {
+    "_id": "683f4694c2de217406d77145",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "fashion",
+    "country": "3"
+  },
+  {
+    "_id": "683f4694c2de217406d77146",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "item",
+    "country": "3"
+  },
+  {
+    "_id": "683f4694c2de217406d77147",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "money",
+    "country": "3"
+  },
+  {
+    "_id": "683f4694c2de217406d77148",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "rentcar",
+    "country": "3"
+  },
+  {
+    "_id": "683f4694c2de217406d77149",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "story",
+    "country": "3"
+  },
+  {
+    "_id": "683f4694c2de217406d7714a",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "weapon",
+    "country": "3"
+  },
+  {
+    "_id": "683f4694c2de217406d7714b",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "car",
+    "country": "4"
+  },
+  {
+    "_id": "683f4694c2de217406d7714c",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "fashion",
+    "country": "4"
+  },
+  {
+    "_id": "683f4694c2de217406d7714d",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "item",
+    "country": "4"
+  },
+  {
+    "_id": "683f4694c2de217406d7714e",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "money",
+    "country": "4"
+  },
+  {
+    "_id": "683f4694c2de217406d7714f",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "rentcar",
+    "country": "4"
+  },
+  {
+    "_id": "683f4695c2de217406d77150",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "story",
+    "country": "4"
+  },
+  {
+    "_id": "683f4695c2de217406d77151",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "weapon",
+    "country": "4"
+  },
+  {
+    "_id": "683f4695c2de217406d77152",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "car",
+    "country": "5"
+  },
+  {
+    "_id": "683f4695c2de217406d77153",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "fashion",
+    "country": "5"
+  },
+  {
+    "_id": "683f4695c2de217406d77154",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "item",
+    "country": "5"
+  },
+  {
+    "_id": "683f4695c2de217406d77155",
+    "name": "Divine",
+    "price": 5.0,
+    "emoji": "❌",
+    "country": "5",
+    "category": "money"
+  },
+  {
+    "_id": "683f4695c2de217406d77156",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "rentcar",
+    "country": "5"
+  },
+  {
+    "_id": "683f4695c2de217406d77157",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "story",
+    "country": "5"
+  },
+  {
+    "_id": "683f4695c2de217406d77158",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "category": "weapon",
+    "country": "5"
+  }
+]

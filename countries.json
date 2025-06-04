@@ -1,0 +1,30 @@
+{
+  "countries": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "country_names": {
+    "1": "Surf",
+    "2": "Bunny",
+    "3": "Night",
+    "4": "Sakura",
+    "5": "POE2"
+  },
+  "country_emojis": {
+    "1": "🌊",
+    "2": "🐰",
+    "3": "🌘",
+    "4": "🌸",
+    "5": "🧌"
+  },
+  "country_codes": {
+    "thailand": "1",
+    "japan": "2",
+    "usa": "3",
+    "korea": "4",
+    "china": "5"
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Mclaren600LT",
+    "price": 5000.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Taycan",
+    "price": 3500.0,
+    "emoji": "🚗"
+  },
+  {
+    "name": "Turismo",
+    "price": 1500.0,
+    "emoji": "🚗"
+  }
+]
